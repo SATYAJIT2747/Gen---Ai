@@ -1,0 +1,28 @@
+# LangChain Core
+langchain==0.3.28
+langchain-core==0.3.83
+
+# OpenAI Integration
+langchain-openai==0.3.35
+openai==2.30.0
+
+# Anthropic Integration
+langchain-anthropic==0.3.22
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai==2.0.10
+
+# Hugging Face Integration
+langchain-huggingface==0.3.1
+transformers==4.57.6
+huggingface-hub==0.36.2
+
+# Environment Variable Management
+python-dotenv==1.2.1
+
+# Machine Learning Utilities
+numpy==2.0.2
+scikit-learn==1.6.1
+
+# Compatibility pin for Python 3.9 on Windows (avoid local C++ build for greenlet)
+greenlet==3.1.1
