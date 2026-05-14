@@ -1,0 +1,3 @@
+SystemMessage(content='You are a helpful assistant that handle coustmer support.')
+HumanMessage(content='where is my refund')
+AIMessge(content = 'refund num 1345 has been initiated')
